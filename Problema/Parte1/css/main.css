@@ -1,1 +1,16 @@
-/* Agrega aqui tu CSS */
+div 	{
+display: inline-block;
+border: 3px solid orange;
+width: 250px;
+}
+
+p 	{
+	font-size: 20px;
+	font-family: ;
+	padding:10px;
+}
+h3 	{
+	padding:10px;
+	text-align: left;
+	font-size: 20px;
+}
